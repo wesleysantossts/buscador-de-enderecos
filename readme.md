@@ -21,7 +21,7 @@ Feito isso, o emulador reproduzirá exatamente essas telas no seu computador.
 
 ## Mais informações
 
-Para saber mais detalhes do funcionamento do app: [Wiki](https://github.com/wesleysantossts/buscador-de-enderecos/wiki/Home)
+Para saber mais detalhes do funcionamento do app acesse a [Wiki](https://github.com/wesleysantossts/buscador-de-enderecos/wiki/Home).
 
 # Contribuidores
 
