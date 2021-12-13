@@ -1,6 +1,8 @@
-# Buscador de endereço
+# Buscador de endereços
 
 Projeto desenvolvido durante o curso de React.
+
+<img src="./src/img/app1.png" height="350px" align="center"/>
 
 As tecnologias utilizadas foram React e Tailwind. A aplicação consome a api pública ViaCep.
 
@@ -21,7 +23,7 @@ Feito isso, o emulador reproduzirá exatamente essas telas no seu computador.
 
 Para saber mais detalhes do funcionamento do app: [Wiki](https://github.com/wesleysantossts/buscador-de-enderecos/wiki/Home)
 
-# Contribuição
+# Contribuidores
 
 Agradecimento especial aos contribuidores do projeto.
 
