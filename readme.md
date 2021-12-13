@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso de React.
 
-<img src="./src/img/app1.png" height="350px" align="center"/>
+<img src="./src/assets/img/app1.png" height="350px" align="center"/>
 
 As tecnologias utilizadas foram React e Tailwind. A aplicação consome a api pública ViaCep.
 
