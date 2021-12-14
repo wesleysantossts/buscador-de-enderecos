@@ -23,6 +23,13 @@ Feito isso, o emulador reproduzirá exatamente essas telas no seu computador.
 
 Para saber mais detalhes do funcionamento do app: [Wiki](https://github.com/wesleysantossts/buscador-de-enderecos/wiki/Home)
 
+### Bibliotecas utilizadas
+
+* Axios
+* Tailwind React-Native
+* React-Native Vector Icons
+* React-Native Navigation Bar Color
+
 # Contribuidores
 
 Agradecimento especial aos contribuidores do projeto.

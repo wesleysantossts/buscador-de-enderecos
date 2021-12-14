@@ -13,6 +13,8 @@
     "axios": "^0.24.0",
     "react": "17.0.2",
     "react-native": "0.66.4",
+    "react-native-navigation-bar-color": "^2.0.1",
+    "react-native-vector-icons": "^9.0.0",
     "twrnc": "^2.2.0"
   },
   "devDependencies": {
